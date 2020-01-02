@@ -1,0 +1,9 @@
+Package: com.imokhles.twbenhancer9
+Name: TWBEnhancer9
+Depends: mobilesubstrate, firmware (>= 9.0), com.imokhles.imodevtools
+Conflicts: com.imokhles.twbenhancer9lite
+Version: 1.1
+Architecture: iphoneos-arm
+Description: most wanted features for Tweetbot4
+Author: iMokhles <mokhleshussien@aol.com>
+Section: Tweaks
